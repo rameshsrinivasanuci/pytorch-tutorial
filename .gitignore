@@ -2,4 +2,5 @@
 *.zip
 data/
 .ipynb_checkpoints
-
+*.gz
+cifar-10-batches-py/
